@@ -1,4 +1,4 @@
-# Numerical Methods – CH2120 (Group Project)
+# Numerical Methods – CH2120
 
 This project is a comprehensive implementation of fundamental **Numerical Methods** using Python, developed as part of the CH2120 course. It covers core numerical algorithms with a focus on **accuracy**, **stability**, and **interactive visualization** using **Streamlit**.
 
